@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Latest Projects: Amazon Clone Website and Login Form"
-date: YYYY-MM-DD HH:MM:SS +0000
+date: 2025-01-23
 categories: [Projects, Web Development]
 tags: [HTML, CSS, Web Design, Beginner Projects]
 author: Sampatti
