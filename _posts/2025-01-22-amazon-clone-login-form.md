@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "My Latest Projects: Amazon Clone Website and Login Form"
+<<<<<<< HEAD
 date: 2025-01-23
+=======
+date: 2025/01/22
+>>>>>>> 4614a39 (Saving local changes before pull)
 categories: [Projects, Web Development]
 tags: [HTML, CSS, Web Design, Beginner Projects]
 author: Sampatti
